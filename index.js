@@ -54,7 +54,6 @@ class ControleCalculo {
     }
 }
 
-// Uso do código
 let vendedor1 = new Vendedor("123", "João", 0.05, 100)
 let consultor1 = new Consultor("456", "Maria", 50, 40)
 let gerente1 = new Gerente("789", "Carlos", 5000)
